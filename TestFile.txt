@@ -1,0 +1,3 @@
+Adding words using echo is not working.
+add text to the file
+did this add
